@@ -6,7 +6,7 @@
 - :purple_heart: My favorite flower is tulip:tulip: and My favorite animal is puppy! :dog:
 - 📫 How to reach me  
   - :envelope: E-mail: hui3363@gmail.com 
-  - :camera: SNS: https://www.instagram.com/seo_hee_l/
+  - :star: SNS: https://www.instagram.com/seo_hee_l/
 
 <!--- - 💞️ I’m looking to collaborate on ... --->
 <!---
