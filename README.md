@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Seo-Hee Lee.
 - 👀 I’m interested in Web development and financial technology.
 - 🌱 I’m currently learning server development using Java/Spring Boot.
-- :green_heart: My hobby is camping and hiking. :tent:
-- :yellow_heart: My soul food is bread, Greek yogurt, Lotus Biscoff :bread:
-- :purple_heart: My favorite flower is tulip:tulip: and My favorite animal is puppy! :dog:
+- :green_heart: My hobby is reading and hiking. 
+- :yellow_heart: My soul food is bread, Greek yogurt, Lotus Biscoff.
+- :purple_heart: My favorite flower is tulip and My favorite animal is puppy!
 - 📫 How to reach me  
   - :envelope: E-mail: hui3363@gmail.com 
   - :star: SNS: https://www.instagram.com/seo_hee_l/
