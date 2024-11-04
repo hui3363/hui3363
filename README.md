@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Seo-Hee Lee.
 - 👀 I’m interested in Web development.
-- :green_heart: My hobby is reading and hiking. 
-- :yellow_heart: My soul food is Greek yogurt, Lotus Biscoff.
 - 📫 How to reach me  
   - :envelope: E-mail: hui3363@gmail.com 
   - :star: SNS: https://www.instagram.com/seo_hee_l/
